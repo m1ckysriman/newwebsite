@@ -1,0 +1,146 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Oxygen+Mono&family=Roboto+Mono:wght@300&display=swap');
+
+body{
+    font-size: 1.5em;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #76BA99;
+    align-content: center;
+    text-align: center;
+    margin: 0;
+    
+    
+}
+.topcontainer{
+    background-color: #76BA99;
+    position: relative;
+    padding-top: 20px;
+
+
+}
+
+h1{
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Courgette', cursive;
+    color: #0b4646;
+    line-height: 2;
+   
+
+}
+
+h2{font-family: 'Oxygen Mono', monospace;
+    font-size: 1.5em;
+    font-weight: normal;
+    color: #417e7e;
+
+}
+h3{font-family: 'Oxygen Mono', monospace;
+    font-size: 1em;
+    color: #285f61;
+    text-align: center;
+
+}
+a{
+    color: #060808;
+    font-size: medium;
+    
+}
+
+p{
+    font-size: large;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.jss{
+    position: relative;
+    margin-left: 100px;
+    width: 30%;
+    margin-left: 225px;
+
+}
+
+hr{
+    border: dotted #6d7879 6px;
+    width: 3%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+.art{
+    position: relative;
+    width: 100%;
+    margin-left: 20px;
+    
+    
+}
+
+
+
+
+.cloud1{
+    position: relative;
+    left: 300px;
+
+}
+
+.cloud2
+{
+    position: absolute;
+    left: 250px;
+    
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .footer-link{
+    position: relative;
+    top: 20px;
+  }
+  
+
+  
+  .bottom-container{
+    background-color: #306264;
+    height: 125px;
+    margin-bottom: 0;
+    border-radius: 8px;
+    line-height: 2;
+    
+  }
+
+  #copyright{
+    position: relative;
+    top: 10px;
+    
+  }
